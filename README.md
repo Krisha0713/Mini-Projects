@@ -92,10 +92,10 @@ cd Mini-Projects
 javac filename.java
 java filename
 ```
-
 Example:
 javac currencyconvt.java
 java currencyconvt
+
 ---
 ## 📚 Learning Outcomes
 
@@ -106,6 +106,7 @@ Hands-on practice with core concepts
 Understanding of real-world problem solving
 
 Better confidence in writing Java programs
+
 ---
 ## 👩‍💻 Author
 
